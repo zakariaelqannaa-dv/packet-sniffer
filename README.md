@@ -1,5 +1,10 @@
 # Packet Sniffer
 
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2.28+-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-API-FFA500?style=for-the-badge&logo=openweathermap&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge)
+
 A lightweight network packet sniffer built with Python and Scapy. Captures, analyzes, and displays network traffic in real-time with protocol filtering and pcap export support.
 
 ## Features
